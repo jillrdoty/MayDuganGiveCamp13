@@ -1,6 +1,0 @@
-C:\Users\dsimpson\Desktop\Da Jawns\UnitConverter(Lab)\UnitConverter(Lab)\bin\Debug\UnitConverter(Lab).exe.config
-C:\Users\dsimpson\Desktop\Da Jawns\UnitConverter(Lab)\UnitConverter(Lab)\bin\Debug\UnitConverter(Lab).exe
-C:\Users\dsimpson\Desktop\Da Jawns\UnitConverter(Lab)\UnitConverter(Lab)\bin\Debug\UnitConverter(Lab).pdb
-C:\Users\dsimpson\Desktop\Da Jawns\UnitConverter(Lab)\UnitConverter(Lab)\obj\Debug\UnitConverter(Lab).csprojResolveAssemblyReference.cache
-C:\Users\dsimpson\Desktop\Da Jawns\UnitConverter(Lab)\UnitConverter(Lab)\obj\Debug\UnitConverter(Lab).exe
-C:\Users\dsimpson\Desktop\Da Jawns\UnitConverter(Lab)\UnitConverter(Lab)\obj\Debug\UnitConverter(Lab).pdb
