@@ -178,13 +178,10 @@ function MD_story_postType(){
 }
 add_action('init', 'MD_story_postType');
 
-// function remove_taxonomy_boxes() {
-// 	remove_meta_box('tagsdiv-post_tag', 'find', 'side');
-// 	remove_meta_box('tagsdiv-postType', 'find', 'side');
-// 	remove_meta_box('tagsdiv-postProject', 'find', 'side');
-// 	remove_meta_box('tagsdiv-employeeSkills', 'find', 'side');
-// }
-// add_action( 'admin_menu' , 'remove_taxonomy_boxes' );
+function remove_taxonomy_boxes() {
+	remove_meta_box('tagsdiv-storyType', 'story', 'side');
+}
+add_action( 'admin_menu' , 'remove_taxonomy_boxes' );
 
 function add_custom_taxonomies() {
 	// Add new taxonomy to Posts
